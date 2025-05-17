@@ -1,4 +1,4 @@
-package com.microservice.quiz.Quiz.Service.config;
+package com.microservice.quiz.Quiz.Service.client;
 
 import java.util.List;
 

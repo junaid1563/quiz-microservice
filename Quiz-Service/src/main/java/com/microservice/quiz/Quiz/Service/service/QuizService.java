@@ -1,12 +1,11 @@
 package com.microservice.quiz.Quiz.Service.service;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.microservice.quiz.Quiz.Service.config.QuestionServiceClient;
+import com.microservice.quiz.Quiz.Service.client.QuestionServiceClient;
 import com.microservice.quiz.Quiz.Service.entity.QuestionWrapper;
 import com.microservice.quiz.Quiz.Service.entity.Quiz;
 import com.microservice.quiz.Quiz.Service.entity.Response;
